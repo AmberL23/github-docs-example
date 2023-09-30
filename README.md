@@ -69,7 +69,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - Make note of where the pipe character key is located. 
 - It should appear above the enter key,
 - but it may vary based on your keyboard layout.
-- 
+  
 ![pipe-character](https://github.com/AmberL23/github-docs-example/assets/142250106/73debf90-0c84-444e-9b37-e5b5909c3edf)
 
 ## External References 
