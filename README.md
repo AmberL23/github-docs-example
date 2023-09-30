@@ -42,7 +42,7 @@ cat $non_existent_file
 
 Github extends Markdown to have a list where you can check off items. [<sup>[2]</sup>](#external-references)
 - [x] Finish Step 1
-- [] Finish Step 2
+- [ ] Finish Step 2
 - [x] Finish Step 3
 
 ##  Step 4 - Use Emojis (Optional)
@@ -66,9 +66,6 @@ You can use the following markdown format to create tables:
 | Cloud with lightning and rain  |`:cloud_with_lightning_and_rain:` | ☁️   |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[3]</sup>](#external-references)
-
-![pipe-character](https://github.com/AmberL23/github-docs-example/assets/142250106/05144946-073a-472c-8707-14f476acec94)
-
 
   
 ## External References 
