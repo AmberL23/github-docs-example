@@ -76,7 +76,7 @@ You can use the following markdown format to create tables:
 | Cloud  | `:cloud:`  | ☁️   |
 | Cloud with lightning and rain  |`:cloud_with_lightning_and_rain:` | ☁️   |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[3]</sup>](#external-references)
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [^3]
 - Make note of where the pipe character key is located. 
 - It should appear above the enter key,
 - but it may vary based on your keyboard layout.
@@ -85,8 +85,8 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ## External References 
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Getting started with Writing and Formatting (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github0
-- [GitHub Flavored Mardown Spec](https://github.com/gfm/) <sup>[1]</sup>
-- [GFM-Tasks Lists](https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/#tasklist) [^2]
+- [Getting started with Writing and Formatting (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+[^1]: [GitHub Flavored Mardown Spec](https://github.com/gfm/)
+[^2]: [GFM-Tasks Lists](https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/#tasklist) 
 - [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
-- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)<sup>[3]</sup>
+[^3]: [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)
