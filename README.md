@@ -38,9 +38,20 @@ cat $non_existent_file
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop, or phone. 
+
+This is not to be confused with taking a photo with your phone. Do not take a photo with your phone. 
+
+Take a screenshot from your laptop. 
+
+
+
+
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items. [<sup>[2]</sup>](#external-references)
+Github extends Markdown to have a list where you can check off items. [^2]
 - [x] Finish Step 1
 - [ ] Finish Step 2
 - [x] Finish Step 3
@@ -76,6 +87,6 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Getting started with Writing and Formatting (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github0
 - [GitHub Flavored Mardown Spec](https://github.com/gfm/) <sup>[1]</sup>
-- [GFM-Tasks Lists](https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/#tasklist)<sup>[2]</sup>
+- [GFM-Tasks Lists](https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/#tasklist) [^2]
 - [GTM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)<sup>[3]</sup>
