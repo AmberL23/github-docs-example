@@ -68,7 +68,7 @@ You can use the following markdown format to create tables:
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[3]</sup>](#external-references)
 
 
-![](assets/pipe character
+![Photo of Pipe Character on Keyboard](assets/pipe-character.png)
 
   
 ## External References 
