@@ -21,8 +21,8 @@ def factorial(n)
   end
 end
 ```
-- Make note of where the backtick button is located. 
-- It should appear above the tab key
+- Make note of where the backtick character key is located. 
+- It should appear above the tab key,
 - but it may vary based on your keyboard layout.
 
 ![backtick](https://github.com/AmberL23/github-docs-example/assets/142250106/410b80ab-d6bb-4a4c-a2fe-06a665ba1f96)
@@ -66,7 +66,10 @@ You can use the following markdown format to create tables:
 | Cloud with lightning and rain  |`:cloud_with_lightning_and_rain:` | ☁️   |
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[3]</sup>](#external-references)
-
+- Make note of where the pipe character key is located. 
+- It should appear above the enter key,
+- but it may vary based on your keyboard layout.
+- 
 ![pipe-character](https://github.com/AmberL23/github-docs-example/assets/142250106/73debf90-0c84-444e-9b37-e5b5909c3edf)
 
 ## External References 
